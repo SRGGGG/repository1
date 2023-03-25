@@ -61,3 +61,14 @@ color: white;
     text-align: right;
     font-weight: bolder;
 }
+
+.h{
+    height: 80px;
+    width: 80px;
+}
+
+.d{
+    position: absolute;
+    top: 320px;
+    left: 190px;
+}
